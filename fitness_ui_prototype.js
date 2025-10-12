@@ -2,15 +2,11 @@
 /**
  * Fitness Website – UI Prototype (Vanilla JS, single file)
  * -------------------------------------------------------------------------
- * How to run:
- * 1) Open index.html in your browser (it loads this file).
- * 2) Or deploy the two files to GitHub (see README.md for steps).
- *
  * What this prototype shows:
  * - A small SPA router using the URL fragment (#/route).
  * - Pages: Home, Classes, Trainers, Memberships, Checkout (mock), Dashboard.
  * - Accessible navigation with aria-current and keyboard focus styles.
- * - Responsive layout (mobile-first), prefers-color-scheme awareness.
+ * - Responsive layout (mobile-first), prefers-colour-scheme awareness.
  * - LocalStorage-backed mock state (user, bookings, membership).
  *
  * Note: This is intentionally framework-free and simple to explain in class.
@@ -21,7 +17,7 @@
   'use strict';
 
   /* ----------------------------------------------------------------------
-   * Global Style – injected once so the prototype is a single-file JS asset.
+   * Global Style – injected once, so the prototype is a single-file JS asset.
    * ---------------------------------------------------------------------- */
   const styles = `
     :root {
