@@ -18,8 +18,8 @@ A framework-free, single-file **JavaScript UI prototype** for a fitness gym webs
 
 ## 🗂 Project structure
 
-├── index.html # Minimal launcher page.
+├── index.html # launcher page.
 
 ├── fitness_ui_prototype.js # All UI/CSS/logic in one file (no deps).
 
-└── README.md # This file.
+└── README.md
