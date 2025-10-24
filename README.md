@@ -1,6 +1,6 @@
 # fitness-gym-ui-prototype
 
-This is a framework-free, single-file **JavaScript UI prototype** for a fitness gym website. It is a small, hash-routed Single Page Application (SPA) with responsive styles, accessible navigation, and mock data supported by localStorage. This fitness-focused gym prototype UI links to my other repository, called fitness-gym-systems-design-assets. It meets all requirements and documentation, except for the UI prototype image, which has been improved for better quality.
+This is a standalone, single-file **JavaScript UI prototype** for a fitness gym website. It is a small, hash-routed Single Page Application (SPA) featuring responsive styles, accessible navigation, and mock data supported by localStorage. This fitness-focused gym prototype UI is linked to my other repository, called fitness-gym-systems-design-assets. It meets all requirements and documentation, except for the UI prototype image, which has been enhanced for improved quality.
 
 > Live easily with GitHub Pages: push `index.html` + `fitness_ui_prototype.js` to the repo **root** and enable Pages (Settings → Pages). ✨
 
